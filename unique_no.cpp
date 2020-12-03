@@ -1,6 +1,6 @@
 /*
 
-Find the unique number uot of the following (odd elements inputted):-
+Find the unique number out of the following (odd elements inputted):-
 Input:-
 7
 1 1 2 2 3 3 4
